@@ -1,5 +1,5 @@
 # mini_project_in_all_types_lanuage_program
-It is mini project on ATM using C Language.
+It is mini project on using C, C++, Java or Any other Language.
 <br>
 Author - Subham Kumar Ray
 
