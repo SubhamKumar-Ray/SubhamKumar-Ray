@@ -5,13 +5,12 @@ Author - Subham Kumar Ray
 
 
 
-<h1>Hi 👋, I'm SUBHAM KUMAR RAY</h1>
-<p>A passionate frontend developer from INDIA</p   
+<h1>Hi 👋, I'm SUBHAM KUMAR RAY</h1>  
                                                
 - 🌱 I’m currently learning **pursuing BCA an i am in the third year.**
 - 📫 How to reach me **sshubhamkumarray542@gmail.com**
 - <h2>📌 My project</h2>
-
+🌐 TargetBCA – https://subhamkumar-ray.github.io/subhamkumartech.github.io/
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
