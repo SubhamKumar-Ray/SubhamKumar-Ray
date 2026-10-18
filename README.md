@@ -1,23 +1,65 @@
-<div align="center">
+# 💻 Mini Projects in Multiple Programming Languages
 
-  <!-- Header Banner -->
-  <a href="https://github.com/SubhamKumar-Ray">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Subham%20Kumar%20Ray&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MCA%20Scholar&descFontSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
-  </a>
+> A curated collection of mini-projects and practical code examples implemented across various programming languages such as C, C++, Java, Python, and Full-Stack Web Development.
 
-  <!-- Typing SVG Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90FA&center=true&vCenter=true&width=550&lines=MCA+Student+at+GNIOT;Full-Stack+Web+Developer;Tech+Enthusiast+%26+Problem+Solver;Welcome+to+my+Repository!" alt="Typing SVG" />
-  </a>
+---
 
-  <br/><br/>
+## 👨‍💻 About the Author
 
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/subham-kumar-ray-706163s7118" target="_blank">
+# Hi 👋, I'm Subham Kumar Ray
+
+🎓 **MCA Student** at **GNIOT (Greater Noida Institute of Technology)**  
+🎓 **BCA Graduate** from **Annada College, Hazaribag** *(Affiliated with Vinoba Bhave University)*  
+💡 Passionate about Full-Stack Web Development, Software Engineering, and Problem Solving.
+
+- 🔭 **Current Focus:** Advanced Software Engineering, Web Technologies & MCA Coursework
+- 📫 **Contact Me:** [sshubhamkumarray542@gmail.com](mailto:sshubhamkumarray542@gmail.com)
+- 🌐 **Featured Project:** [BCA Study Zone](https://subhamkumar-ray.github.io/bcastudyzone/)
+
+---
+
+## 📌 Featured Project
+
+### 🌐 [BCA Study Zone](https://subhamkumar-ray.github.io/bcastudyzone/)
+An educational web platform designed to assist computer application students with syllabus guides, previous year question solutions, code snippets, and study materials.
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+</p>
+
+### 🌐 Web & App Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
+</p>
+
+### 🗄️ Databases & Design Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="http://www.linkedin.com/in/subham-kumar-ray-706163s7118" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sshubhamkumarray542@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="http://youtube.com/@shubhamkumarray6207" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -28,17 +70,10 @@
   <a href="https://www.facebook.com/subhamray6207" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-
-</div>
+  <a href="mailto:sshubhamkumarray542@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
-
-### 👨‍💻 About Me
-
-```yaml
-Name: Subham Kumar Ray
-Degree: Master of Computer Applications (MCA)
-Current_Institution: GNIOT (Greater Noida Institute of Technology)
-Previous_Degree: BCA (Annada College, Hazaribagh - Affiliated with Vinoba Bhave University)
-Interests: Full-Stack Web Development, System Design, Automation & AI Integration
-Current_Focus: Advanced Data Structures, Backend Architecture, and Scalable Applications
+⭐ *Feel free to explore the repository, star it if you find it helpful, and connect for collaborations!*
