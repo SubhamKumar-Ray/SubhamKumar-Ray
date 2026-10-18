@@ -14,7 +14,8 @@
 
 <!-- Visitor / Profile Stats Badge -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSubhamKumar-Ray%2Fmini_project_in_all_types_lanuage_program&count_bg=%232563EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false" alt="Repo Views" />
+  <img src="https://img.shields.io/badge/Repository-SubhamKumar--Ray-blue?style=for-the-badge&logo=github" alt="Repository" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
 </p>
 
 </div>
